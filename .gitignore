@@ -1,0 +1,4 @@
+*.ipynb
+migrations
+*.pkl
+venv
